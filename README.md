@@ -22,9 +22,3 @@ Este programa calcula o percentual de representação que cada estado teve dentr
 Este programa inverte os caracteres de uma string.
 
 
-### Como executar:
-1. Abra o arquivo `inverterString.js` em um editor de código.
-2. Substitua a variável `minhaString` com a string desejada.
-3. Abra um terminal na pasta do projeto.
-4. Execute o comando `node inverterString.js`.
-
